@@ -25,6 +25,6 @@
 
 #
 
-<img align="center" style="width:33%" src="https://img.shields.io/badge/Valutazione-10-brightgreen"></img>
-<img align="center" style="width:33%" src="https://img.shields.io/badge/Software-Unity-blue"></img>
-<img align="center" style="width:33%" src="https://img.shields.io/badge/Durata-5%20Mesi-red"></img>
+<img align="center" style="width:32%" src="https://img.shields.io/badge/Valutazione-10-brightgreen"></img>
+<img align="center" style="width:32%" src="https://img.shields.io/badge/Software-Unity-blue"></img>
+<img align="center" style="width:32%" src="https://img.shields.io/badge/Durata-5%20Mesi-red"></img>
